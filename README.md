@@ -4,6 +4,6 @@ size 3359
 
 A fully responsive react app build on theme of crypto with search functionality , API calls and chart-js2.
 
-https://poetic-taffy-bd2798.netlify.app/
+https://cryptland.netlify.app/
 
 
